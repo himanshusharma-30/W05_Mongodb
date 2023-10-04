@@ -1,0 +1,22 @@
+[
+    {
+        "_id": "Cardiologist",
+        "avg_rating": 3.6666666666666665
+    },
+    {
+        "_id": "Dermatologist",
+        "avg_rating": 3.235294117647059
+    },
+    {
+        "_id": "Pediatrician",
+        "avg_rating": 3.1904761904761907
+    },
+    {
+        "_id": "Neurologist",
+        "avg_rating": 3.1363636363636362
+    },
+    {
+        "_id": "Orthopedic Surgeon",
+        "avg_rating": 3.0454545454545454
+    }
+]

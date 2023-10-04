@@ -1,0 +1,902 @@
+[
+    {
+        "id": 1,
+        "doctor_name": "Dr. Smith",
+        "age": 55,
+        "city": "Chicago",
+        "rating": 5,
+        "specialty": "Neurologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 2,
+        "doctor_name": "Dr. Davis",
+        "age": 35,
+        "city": "New York",
+        "rating": 3,
+        "specialty": "Dermatologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 3,
+        "doctor_name": "Dr. Williams",
+        "age": 36,
+        "city": "Chicago",
+        "rating": 3,
+        "specialty": "Cardiologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 4,
+        "doctor_name": "Dr. Johnson",
+        "age": 19,
+        "city": "San Francisco",
+        "rating": 2,
+        "specialty": "Dermatologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 5,
+        "doctor_name": "Dr. Brown",
+        "age": 28,
+        "city": "San Francisco",
+        "rating": 5,
+        "specialty": "Dermatologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 6,
+        "doctor_name": "Dr. Davis",
+        "age": 29,
+        "city": "Los Angeles",
+        "rating": 3,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 7,
+        "doctor_name": "Dr. Williams",
+        "age": 40,
+        "city": "New York",
+        "rating": 3,
+        "specialty": "Neurologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 8,
+        "doctor_name": "Dr. Smith",
+        "age": 41,
+        "city": "San Francisco",
+        "rating": 2,
+        "specialty": "Cardiologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 9,
+        "doctor_name": "Dr. Johnson",
+        "age": 31,
+        "city": "Houston",
+        "rating": 2,
+        "specialty": "Dermatologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 10,
+        "doctor_name": "Dr. Williams",
+        "age": 47,
+        "city": "New York",
+        "rating": 2,
+        "specialty": "Pediatrician",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 11,
+        "doctor_name": "Dr. Johnson",
+        "age": 52,
+        "city": "New York",
+        "rating": 5,
+        "specialty": "Neurologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 12,
+        "doctor_name": "Dr. Williams",
+        "age": 34,
+        "city": "Houston",
+        "rating": 1,
+        "specialty": "Pediatrician",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 13,
+        "doctor_name": "Dr. Williams",
+        "age": 44,
+        "city": "San Francisco",
+        "rating": 1,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 14,
+        "doctor_name": "Dr. Williams",
+        "age": 55,
+        "city": "Chicago",
+        "rating": 4,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 15,
+        "doctor_name": "Dr. Davis",
+        "age": 60,
+        "city": "Los Angeles",
+        "rating": 3,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 16,
+        "doctor_name": "Dr. Brown",
+        "age": 39,
+        "city": "San Francisco",
+        "rating": 5,
+        "specialty": "Neurologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 17,
+        "doctor_name": "Dr. Davis",
+        "age": 49,
+        "city": "New York",
+        "rating": 1,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 18,
+        "doctor_name": "Dr. Smith",
+        "age": 55,
+        "city": "New York",
+        "rating": 5,
+        "specialty": "Cardiologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 19,
+        "doctor_name": "Dr. Davis",
+        "age": 23,
+        "city": "Chicago",
+        "rating": 5,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 20,
+        "doctor_name": "Dr. Smith",
+        "age": 40,
+        "city": "Chicago",
+        "rating": 2,
+        "specialty": "Neurologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 21,
+        "doctor_name": "Dr. Davis",
+        "age": 19,
+        "city": "New York",
+        "rating": 3,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 22,
+        "doctor_name": "Dr. Brown",
+        "age": 47,
+        "city": "Los Angeles",
+        "rating": 4,
+        "specialty": "Pediatrician",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 23,
+        "doctor_name": "Dr. Smith",
+        "age": 56,
+        "city": "Los Angeles",
+        "rating": 3,
+        "specialty": "Neurologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 24,
+        "doctor_name": "Dr. Williams",
+        "age": 43,
+        "city": "Chicago",
+        "rating": 2,
+        "specialty": "Cardiologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 25,
+        "doctor_name": "Dr. Davis",
+        "age": 54,
+        "city": "Chicago",
+        "rating": 5,
+        "specialty": "Dermatologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 26,
+        "doctor_name": "Dr. Williams",
+        "age": 47,
+        "city": "Houston",
+        "rating": 3,
+        "specialty": "Pediatrician",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 27,
+        "doctor_name": "Dr. Johnson",
+        "age": 28,
+        "city": "Chicago",
+        "rating": 2,
+        "specialty": "Cardiologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 28,
+        "doctor_name": "Dr. Williams",
+        "age": 50,
+        "city": "Chicago",
+        "rating": 2,
+        "specialty": "Neurologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 29,
+        "doctor_name": "Dr. Smith",
+        "age": 38,
+        "city": "Houston",
+        "rating": 3,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 30,
+        "doctor_name": "Dr. Davis",
+        "age": 24,
+        "city": "New York",
+        "rating": 2,
+        "specialty": "Cardiologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 31,
+        "doctor_name": "Dr. Brown",
+        "age": 58,
+        "city": "Los Angeles",
+        "rating": 4,
+        "specialty": "Cardiologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 32,
+        "doctor_name": "Dr. Brown",
+        "age": 58,
+        "city": "San Francisco",
+        "rating": 4,
+        "specialty": "Cardiologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 33,
+        "doctor_name": "Dr. Williams",
+        "age": 44,
+        "city": "San Francisco",
+        "rating": 5,
+        "specialty": "Neurologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 34,
+        "doctor_name": "Dr. Davis",
+        "age": 51,
+        "city": "San Francisco",
+        "rating": 2,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 35,
+        "doctor_name": "Dr. Brown",
+        "age": 40,
+        "city": "Chicago",
+        "rating": 3,
+        "specialty": "Pediatrician",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 36,
+        "doctor_name": "Dr. Williams",
+        "age": 33,
+        "city": "San Francisco",
+        "rating": 4,
+        "specialty": "Neurologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 37,
+        "doctor_name": "Dr. Johnson",
+        "age": 46,
+        "city": "Houston",
+        "rating": 1,
+        "specialty": "Neurologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 38,
+        "doctor_name": "Dr. Brown",
+        "age": 43,
+        "city": "San Francisco",
+        "rating": 5,
+        "specialty": "Cardiologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 39,
+        "doctor_name": "Dr. Williams",
+        "age": 19,
+        "city": "Los Angeles",
+        "rating": 4,
+        "specialty": "Pediatrician",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 40,
+        "doctor_name": "Dr. Johnson",
+        "age": 24,
+        "city": "Chicago",
+        "rating": 2,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 41,
+        "doctor_name": "Dr. Smith",
+        "age": 55,
+        "city": "Chicago",
+        "rating": 1,
+        "specialty": "Neurologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 42,
+        "doctor_name": "Dr. Johnson",
+        "age": 31,
+        "city": "San Francisco",
+        "rating": 4,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 43,
+        "doctor_name": "Dr. Johnson",
+        "age": 53,
+        "city": "Houston",
+        "rating": 3,
+        "specialty": "Pediatrician",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 44,
+        "doctor_name": "Dr. Smith",
+        "age": 41,
+        "city": "San Francisco",
+        "rating": 3,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 45,
+        "doctor_name": "Dr. Smith",
+        "age": 42,
+        "city": "New York",
+        "rating": 3,
+        "specialty": "Cardiologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 46,
+        "doctor_name": "Dr. Davis",
+        "age": 29,
+        "city": "New York",
+        "rating": 4,
+        "specialty": "Dermatologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 47,
+        "doctor_name": "Dr. Brown",
+        "age": 22,
+        "city": "Chicago",
+        "rating": 3,
+        "specialty": "Pediatrician",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 48,
+        "doctor_name": "Dr. Johnson",
+        "age": 46,
+        "city": "Chicago",
+        "rating": 4,
+        "specialty": "Neurologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 49,
+        "doctor_name": "Dr. Brown",
+        "age": 23,
+        "city": "San Francisco",
+        "rating": 3,
+        "specialty": "Neurologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 50,
+        "doctor_name": "Dr. Brown",
+        "age": 56,
+        "city": "San Francisco",
+        "rating": 5,
+        "specialty": "Cardiologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 51,
+        "doctor_name": "Dr. Davis",
+        "age": 30,
+        "city": "Los Angeles",
+        "rating": 2,
+        "specialty": "Neurologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 52,
+        "doctor_name": "Dr. Johnson",
+        "age": 47,
+        "city": "New York",
+        "rating": 4,
+        "specialty": "Dermatologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 53,
+        "doctor_name": "Dr. Williams",
+        "age": 55,
+        "city": "San Francisco",
+        "rating": 2,
+        "specialty": "Neurologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 54,
+        "doctor_name": "Dr. Williams",
+        "age": 53,
+        "city": "San Francisco",
+        "rating": 5,
+        "specialty": "Pediatrician",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 55,
+        "doctor_name": "Dr. Johnson",
+        "age": 57,
+        "city": "Houston",
+        "rating": 4,
+        "specialty": "Pediatrician",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 56,
+        "doctor_name": "Dr. Williams",
+        "age": 45,
+        "city": "San Francisco",
+        "rating": 3,
+        "specialty": "Neurologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 57,
+        "doctor_name": "Dr. Williams",
+        "age": 27,
+        "city": "Houston",
+        "rating": 1,
+        "specialty": "Dermatologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 58,
+        "doctor_name": "Dr. Johnson",
+        "age": 57,
+        "city": "Los Angeles",
+        "rating": 5,
+        "specialty": "Cardiologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 59,
+        "doctor_name": "Dr. Brown",
+        "age": 36,
+        "city": "Los Angeles",
+        "rating": 4,
+        "specialty": "Pediatrician",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 60,
+        "doctor_name": "Dr. Smith",
+        "age": 19,
+        "city": "Chicago",
+        "rating": 2,
+        "specialty": "Pediatrician",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 61,
+        "doctor_name": "Dr. Smith",
+        "age": 46,
+        "city": "Houston",
+        "rating": 2,
+        "specialty": "Dermatologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 62,
+        "doctor_name": "Dr. Davis",
+        "age": 33,
+        "city": "San Francisco",
+        "rating": 3,
+        "specialty": "Dermatologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 63,
+        "doctor_name": "Dr. Davis",
+        "age": 32,
+        "city": "Houston",
+        "rating": 1,
+        "specialty": "Neurologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 64,
+        "doctor_name": "Dr. Williams",
+        "age": 19,
+        "city": "San Francisco",
+        "rating": 5,
+        "specialty": "Dermatologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 65,
+        "doctor_name": "Dr. Williams",
+        "age": 43,
+        "city": "San Francisco",
+        "rating": 2,
+        "specialty": "Neurologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 66,
+        "doctor_name": "Dr. Brown",
+        "age": 44,
+        "city": "San Francisco",
+        "rating": 4,
+        "specialty": "Cardiologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 67,
+        "doctor_name": "Dr. Johnson",
+        "age": 57,
+        "city": "Houston",
+        "rating": 4,
+        "specialty": "Dermatologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 68,
+        "doctor_name": "Dr. Brown",
+        "age": 38,
+        "city": "Chicago",
+        "rating": 4,
+        "specialty": "Neurologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 69,
+        "doctor_name": "Dr. Williams",
+        "age": 37,
+        "city": "Houston",
+        "rating": 3,
+        "specialty": "Pediatrician",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 70,
+        "doctor_name": "Dr. Smith",
+        "age": 31,
+        "city": "Los Angeles",
+        "rating": 5,
+        "specialty": "Neurologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 71,
+        "doctor_name": "Dr. Williams",
+        "age": 19,
+        "city": "San Francisco",
+        "rating": 1,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 72,
+        "doctor_name": "Dr. Smith",
+        "age": 50,
+        "city": "Chicago",
+        "rating": 2,
+        "specialty": "Neurologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 73,
+        "doctor_name": "Dr. Smith",
+        "age": 21,
+        "city": "Los Angeles",
+        "rating": 3,
+        "specialty": "Pediatrician",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 74,
+        "doctor_name": "Dr. Johnson",
+        "age": 58,
+        "city": "Houston",
+        "rating": 5,
+        "specialty": "Cardiologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 75,
+        "doctor_name": "Dr. Smith",
+        "age": 36,
+        "city": "Houston",
+        "rating": 2,
+        "specialty": "Cardiologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 76,
+        "doctor_name": "Dr. Davis",
+        "age": 48,
+        "city": "Chicago",
+        "rating": 2,
+        "specialty": "Dermatologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 77,
+        "doctor_name": "Dr. Smith",
+        "age": 34,
+        "city": "Chicago",
+        "rating": 1,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 78,
+        "doctor_name": "Dr. Johnson",
+        "age": 46,
+        "city": "Los Angeles",
+        "rating": 5,
+        "specialty": "Dermatologist",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 79,
+        "doctor_name": "Dr. Smith",
+        "age": 57,
+        "city": "Chicago",
+        "rating": 5,
+        "specialty": "Pediatrician",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 80,
+        "doctor_name": "Dr. Davis",
+        "age": 19,
+        "city": "Houston",
+        "rating": 5,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 81,
+        "doctor_name": "Dr. Smith",
+        "age": 48,
+        "city": "Houston",
+        "rating": 1,
+        "specialty": "Dermatologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 82,
+        "doctor_name": "Dr. Williams",
+        "age": 24,
+        "city": "Los Angeles",
+        "rating": 5,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 83,
+        "doctor_name": "Dr. Brown",
+        "age": 59,
+        "city": "Los Angeles",
+        "rating": 1,
+        "specialty": "Pediatrician",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 84,
+        "doctor_name": "Dr. Davis",
+        "age": 40,
+        "city": "Chicago",
+        "rating": 5,
+        "specialty": "Cardiologist",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 85,
+        "doctor_name": "Dr. Williams",
+        "age": 27,
+        "city": "New York",
+        "rating": 3,
+        "specialty": "Pediatrician",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 86,
+        "doctor_name": "Dr. Williams",
+        "age": 41,
+        "city": "New York",
+        "rating": 4,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 87,
+        "doctor_name": "Dr. Johnson",
+        "age": 23,
+        "city": "San Francisco",
+        "rating": 3,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 88,
+        "doctor_name": "Dr. Davis",
+        "age": 39,
+        "city": "Chicago",
+        "rating": 3,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 89,
+        "doctor_name": "Dr. Brown",
+        "age": 38,
+        "city": "Chicago",
+        "rating": 5,
+        "specialty": "Cardiologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 90,
+        "doctor_name": "Dr. Davis",
+        "age": 51,
+        "city": "Houston",
+        "rating": 4,
+        "specialty": "Dermatologist",
+        "review_text": "Great doctor!"
+    },
+    {
+        "id": 91,
+        "doctor_name": "Dr. Smith",
+        "age": 60,
+        "city": "Chicago",
+        "rating": 1,
+        "specialty": "Pediatrician",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 92,
+        "doctor_name": "Dr. Williams",
+        "age": 46,
+        "city": "New York",
+        "rating": 3,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Helped me a lot."
+    },
+    {
+        "id": 93,
+        "doctor_name": "Dr. Williams",
+        "age": 53,
+        "city": "Los Angeles",
+        "rating": 4,
+        "specialty": "Pediatrician",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 94,
+        "doctor_name": "Dr. Brown",
+        "age": 40,
+        "city": "New York",
+        "rating": 3,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 95,
+        "doctor_name": "Dr. Johnson",
+        "age": 30,
+        "city": "Chicago",
+        "rating": 3,
+        "specialty": "Cardiologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 96,
+        "doctor_name": "Dr. Johnson",
+        "age": 47,
+        "city": "New York",
+        "rating": 5,
+        "specialty": "Neurologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 97,
+        "doctor_name": "Dr. Williams",
+        "age": 60,
+        "city": "New York",
+        "rating": 3,
+        "specialty": "Dermatologist",
+        "review_text": "Highly recommended."
+    },
+    {
+        "id": 98,
+        "doctor_name": "Dr. Smith",
+        "age": 56,
+        "city": "Chicago",
+        "rating": 5,
+        "specialty": "Pediatrician",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 99,
+        "doctor_name": "Dr. Williams",
+        "age": 36,
+        "city": "New York",
+        "rating": 4,
+        "specialty": "Pediatrician",
+        "review_text": "Very knowledgeable and friendly."
+    },
+    {
+        "id": 100,
+        "doctor_name": "Dr. Smith",
+        "age": 56,
+        "city": "Los Angeles",
+        "rating": 5,
+        "specialty": "Orthopedic Surgeon",
+        "review_text": "Great doctor!"
+    }
+]
